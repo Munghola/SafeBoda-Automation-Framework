@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Steps Driver Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fa05ae2-3cbf-49d6-a5b0-6655739519f1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>acd422f4-72c4-4bc0-acdc-11e03263ce81</id>
+      <masked>false</masked>
+      <name>emails</name>
+   </variable>
+</TestCaseEntity>

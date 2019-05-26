@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Request Ride</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d46c235-dff4-4750-b723-8d7bcbe9b944</testCaseGuid>
+   <variable>
+      <defaultValue>'Sheraton Kampala Hotel'</defaultValue>
+      <description></description>
+      <id>73c8b5e8-0eca-48bc-b529-6284a95a294d</id>
+      <masked>false</masked>
+      <name>whereToGo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Old Kampala'</defaultValue>
+      <description></description>
+      <id>3c048ebf-84a3-4dee-adb4-bf6c75d3b18e</id>
+      <masked>false</masked>
+      <name>pickUp</name>
+   </variable>
+</TestCaseEntity>
